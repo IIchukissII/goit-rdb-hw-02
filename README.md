@@ -94,3 +94,6 @@
 | 2                 | 101        | 2            | 2             |
 | 3                 | 102        | 3            | 4             |
 | 4                 | 103        | 2            | 4             |
+
+
+![hw2](https://github.com/user-attachments/assets/b84de16a-63a4-426e-897a-f672e6b61f77)
